@@ -19,5 +19,5 @@ git branch -M main
 git remote add origin https://github.com/USERNAME/REPOSITORY.git
 git push -u origin mai
  the advantages and disadvantages.
-Imagine living on Mars.
+
 
