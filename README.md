@@ -1,6 +1,6 @@
 
 
-< because its `README.md` (this file) appears on your GitHub profile.
+ `README.md` (this file) appears on your GitHub profile.
 
 
 - 🌱
