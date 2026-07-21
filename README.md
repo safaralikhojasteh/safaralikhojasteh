@@ -1,6 +1,6 @@
 
 
- EADME.md` (this file) appears on your GitHub profile.
+ADME.md` (this file) appears on your GitHub profile.
 
 
 - 🌱
