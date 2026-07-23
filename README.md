@@ -1,6 +1,6 @@
 
 
-` (this file) appears on your GitHub profile.
+ appears on your GitHub profile.
 
 
 - 🌱
