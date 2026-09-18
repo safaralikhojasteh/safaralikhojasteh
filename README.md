@@ -13,7 +13,7 @@
 
 commit -m "Initial commit"
 git branch -M main
- origin https:/thub.com/USERNAME/REPOSITORY.git
+ rigin https:/thub.com/USERNAME/REPOSITORY.git
 
  
 
