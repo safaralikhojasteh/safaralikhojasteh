@@ -13,7 +13,7 @@
 
 commit -m "Initial commit"
 git branch -M main
- https:/thub.com/USERNAME/REPOSITORY.git
+ttps:/thub.com/USERNAME/REPOSITORY.git
 
  
 
