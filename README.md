@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 
 
-commit -m "Initial commit"
+ommit -m "Initial commit"
 git branch -M main
 hub.com/USERNAME/REPOSITORY.git
 
