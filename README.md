@@ -13,7 +13,7 @@
 
 ommit -m "Initial commit"
 t branch -M main
-hub.com/USERNAME/REPOSITORY.git
+ub.com/USERNAME/REPOSITORY.git
 
  
 
