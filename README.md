@@ -13,7 +13,7 @@
 
 ommit -m "Initial commit"
 t branch -M main
-ME/REPOSITORY.git
+E/REPOSITORY.git
 
  
 
