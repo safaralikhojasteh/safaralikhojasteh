@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 
 
-ommit -m "Initial commit"
+ommit -m "Initial commi"
 t branch -M main
 TORY.gt
 
