@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 
 
-ommit -m "Initial ommi"
+ommit -m "Initial mmi"
 t branch -M main
 Y.gt
 
