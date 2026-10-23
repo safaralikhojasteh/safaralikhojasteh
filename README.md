@@ -11,7 +11,7 @@
 - 😄ronouns: ...
 
 
-ommit -m "Initialmi"
+ommit -m itialmi"
 t branch -M main
 Y.t
 
