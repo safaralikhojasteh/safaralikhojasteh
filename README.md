@@ -12,7 +12,7 @@
 
 
 mit -m itialmi"
-ranch -M main
+ranch  main
 Y.t
 
  
