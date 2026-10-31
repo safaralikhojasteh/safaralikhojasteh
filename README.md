@@ -11,7 +11,7 @@
 - 😄onos: ...
 
 
-mit -m itialmi"
+mit -m ialmi"
 ranch  main
 Y.t
 
